@@ -1,0 +1,66 @@
+body{
+    margin:auto;
+}
+
+a{
+    text-decoration:none
+}
+
+header{
+    height:60px;
+    background-color: rgb(186, 172, 242);
+}
+
+#items{
+    font-size: 50px;
+    word-spacing: 20px;
+    padding: 0px 10px;
+    display: inline-block;
+}
+
+#home{
+    text-align: center;
+}
+
+.img{
+    height: 500px;
+    display: block;
+    margin-left: 35%;
+    width: 25%;
+}
+
+.font{
+    font-size: 150%;
+    max-width: 1450px;
+    margin:0px auto;
+    text-align: center;
+    text-indent: 35px;
+}
+
+table, th, td {
+    border: 1px solid;
+    height: 100px;
+    width: 50%;
+    font-size: 20px;
+}
+
+#skills{
+    max-width: 50%;
+    max-height: 50%;
+}
+
+#skills img{
+    width: 20%;
+    height: 200px;
+    display: inline;
+    margin: 2%;
+}
+
+#personal{
+    margin-left: 45%;
+}
+
+#personal img{
+    height: 40px;
+    width: 25px;
+}
